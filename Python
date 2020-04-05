@@ -1,0 +1,52 @@
+
+  class Authentication(object):
+      def _init_(self,firstname = ''):
+      self.first name = firstname
+       def firstname(self):
+           firstname = only(c.is firstname() for c in self.firstname)
+           return firstname
+
+           def _init_(self,lasttname = ''):
+      self.last name = lastname
+       def lastname(self):
+           lasb tname = only(c.is lastname() for c in self.lastname)
+           return lastname
+
+
+           def _init_(self,email= ''):
+      self.email= email
+       def email(self):
+           eamil = only(c.is email() for c in self.email)
+           return email
+         
+        def _init_(self,password = ''):
+      self.password = password
+       def password(self):
+           password= only(c.is password() for c in self.password)
+           return password
+            
+
+
+             def _init_(self,comfirmpassword = ''):
+      self.password = comfirm password
+       def comfirm password(self):
+           comfirmpassword= only(c.is comfirmpassword() for c in self.comfirmpassword)
+           return comfirm password
+
+
+
+            def _init_(self,passwordfirstnamecase = ''):
+      self.password = password
+       def email(self):
+           password= only(c.is firstname case & lastname case() for c in self.firstname& lastname case)
+           return show
+
+           else:
+             def _init_(self,choosepassword = ''):
+                 self.choosepassword = choosepassword
+                 return taken
+
+
+               def_password(self):
+                   upper = any(c.in firstname case() for c.in self password)
+                   return firstname case
