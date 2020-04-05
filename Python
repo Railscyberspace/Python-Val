@@ -50,3 +50,42 @@
                def_password(self):
                    upper = any(c.in firstname case() for c.in self password)
                    return firstname case
+                   
+                   def validate(self):
+                       firstname = self._firstname()
+                       lastnam = self._lastname()
+                       firstname case = self._firstname case()
+                       password = self._password
+
+
+                       length = len(self.password)
+
+                       report = firstname and lastname and password length>= 7
+                       if report:
+                           print('password passed all checks')
+                           return True
+
+                           elif not firstname case:
+                               print('please used first 2 case letters of firstname case')
+                               return False
+                             
+                             else:
+                                pass
+                           C= Authentication("")
+                           print(c.validate))
+
+
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
